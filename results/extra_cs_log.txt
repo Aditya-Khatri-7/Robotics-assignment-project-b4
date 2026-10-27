@@ -1,0 +1,6 @@
+step P overshoot 124.8 % settle 0.59 s final 1.087
+step PD overshoot -0.0 % settle 0.15 s final 0.500
+step PID overshoot 4.7 % settle 0.27 s final 0.501
+track PD max err 38.2 mrad
+track PID max err 22.2 mrad
+track PID+FF max err 18.6 mrad

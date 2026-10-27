@@ -1,0 +1,107 @@
+105 runs on 8 CoppeliaSim instances
+done speed M1 Stop-and-go 0.2 2 correct 12 / 12
+done speed M1 Stop-and-go 0.2 1 correct 12 / 12
+done speed M1 Stop-and-go 0.2 0 correct 12 / 12
+done speed M1 Stop-and-go 0.1 2 correct 12 / 12
+done speed M1 Stop-and-go 0.1 3 correct 12 / 12
+done speed M1 Stop-and-go 0.1 1 correct 12 / 12
+done speed M1 Stop-and-go 0.1 0 correct 12 / 12
+done speed M1 Stop-and-go 0.1 4 correct 12 / 12
+done speed M1 Stop-and-go 0.3 0 correct 12 / 12
+done speed M1 Stop-and-go 0.25 3 correct 12 / 12
+done speed M1 Stop-and-go 0.25 4 correct 12 / 12
+done speed M1 Stop-and-go 0.25 0 correct 12 / 12
+done speed M1 Stop-and-go 0.25 1 correct 12 / 12
+done speed M1 Stop-and-go 0.25 2 correct 12 / 12
+done speed M1 Stop-and-go 0.2 3 correct 12 / 12
+done speed M1 Stop-and-go 0.2 4 correct 12 / 12
+done speed M2 Predictive 0.1 3 correct 12 / 12
+done speed M2 Predictive 0.1 1 correct 12 / 12
+done speed M2 Predictive 0.1 2 correct 12 / 12
+done speed M2 Predictive 0.25 1 correct 10 / 12
+done speed M1 Stop-and-go 0.3 3 correct 12 / 12
+done speed M2 Predictive 0.1 0 correct 12 / 12
+done speed M1 Stop-and-go 0.3 4 correct 12 / 12
+done speed M2 Predictive 0.25 0 correct 11 / 12
+done speed M1 Stop-and-go 0.3 1 correct 12 / 12
+done speed M2 Predictive 0.2 4 correct 12 / 12
+done speed M1 Stop-and-go 0.3 2 correct 12 / 12
+done speed M2 Predictive 0.3 4 correct 8 / 12
+done speed M2 Predictive 0.3 3 correct 11 / 12
+done speed M2 Predictive 0.3 2 correct 10 / 12
+done speed M2 Predictive 0.2 1 correct 12 / 12
+done speed M2 Predictive 0.2 3 correct 12 / 12
+done speed M2 Predictive 0.2 2 correct 12 / 12
+done speed M2 Predictive 0.2 0 correct 11 / 12
+done speed M3 Proposed 0.2 2 correct 12 / 12
+done speed M2 Predictive 0.3 1 correct 8 / 12
+done speed M2 Predictive 0.25 4 correct 10 / 12
+done speed M2 Predictive 0.3 0 correct 9 / 12
+done speed M3 Proposed 0.2 1 correct 12 / 12
+done speed M3 Proposed 0.2 0 correct 12 / 12
+done speed M2 Predictive 0.1 4 correct 12 / 12
+done speed M2 Predictive 0.25 3 correct 10 / 12
+done speed M3 Proposed 0.3 0 correct 9 / 12
+done speed M3 Proposed 0.25 4 correct 11 / 12
+done speed M3 Proposed 0.25 3 correct 11 / 12
+done speed M2 Predictive 0.25 2 correct 10 / 12
+done latency M2 Predictive 0.25 1 correct 9 / 12
+done ripple M2 Predictive 0.25 1 correct 6 / 12
+done latency M2 Predictive 0.25 0 correct 11 / 12
+done speed M3 Proposed 0.1 4 correct 12 / 12
+done speed M3 Proposed 0.1 3 correct 12 / 12
+done speed M3 Proposed 0.1 2 correct 12 / 12
+done latency M3 Proposed 0.25 0 correct 12 / 12
+done speed M3 Proposed 0.1 1 correct 12 / 12
+done ripple M3 Proposed 0.25 0 correct 10 / 12
+done latency M2 Predictive 0.25 4 correct 10 / 12
+done speed M3 Proposed 0.25 2 correct 11 / 12
+done speed M3 Proposed 0.25 1 correct 12 / 12
+done speed M3 Proposed 0.25 0 correct 12 / 12
+done speed M3 Proposed 0.1 0 correct 12 / 12
+done latency M3 Proposed 0.25 4 correct 11 / 12
+done speed M3 Proposed 0.2 4 correct 12 / 12
+done ripple M3 Proposed 0.25 4 correct 10 / 12
+done latency M3 Proposed 0.25 3 correct 11 / 12
+done speed M3 Proposed 0.3 4 correct 9 / 12
+done speed M3 Proposed 0.3 3 correct 11 / 12
+done ripple M2 Predictive 0.25 0 correct 6 / 12
+done ablation M3 w/o visual servo 0.3 2 correct 8 / 12
+done speed M3 Proposed 0.2 3 correct 12 / 12
+done speed M3 Proposed 0.3 2 correct 10 / 12
+done ablation M3 w/o visual servo 0.3 1 correct 8 / 12
+done ablation M3 w/o visual servo 0.3 0 correct 10 / 12
+done ripple M2 Predictive 0.25 3 correct 5 / 12
+done latency M2 Predictive 0.25 3 correct 10 / 12
+done ripple M2 Predictive 0.25 4 correct 6 / 12
+done ablation M3 w/o SCT scheduling 0.3 0 correct 11 / 12
+done speed M3 Proposed 0.3 1 correct 8 / 12
+done ablation M3 w/o Kalman (LS) 0.3 4 correct 8 / 12
+done ablation M3 w/o Kalman (LS) 0.3 3 correct 9 / 12
+done latency M2 Predictive 0.25 2 correct 8 / 12
+done ripple M3 Proposed 0.25 2 correct 11 / 12
+done ripple M3 Proposed 0.25 3 correct 10 / 12
+done ablation M3 Proposed 0.3 3 correct 10 / 12
+done latency M3 Proposed 0.25 2 correct 11 / 12
+done ripple M2 Predictive 0.25 2 correct 5 / 12
+done ablation M3 Proposed 0.3 1 correct 9 / 12
+done ablation M3 Proposed 0.3 2 correct 11 / 12
+done latency M3 Proposed 0.25 1 correct 12 / 12
+done ablation M2 Predictive 0.3 2 correct 7 / 12
+done ablation M2 Predictive 0.3 4 correct 6 / 12
+done ablation M2 Predictive 0.3 3 correct 7 / 12
+done ripple M3 Proposed 0.25 1 correct 12 / 12
+done ablation M2 Predictive 0.3 1 correct 7 / 12
+done ablation M3 w/o Kalman (LS) 0.3 0 correct 11 / 12
+done ablation M3 w/o Kalman (LS) 0.3 2 correct 8 / 12
+done ablation M3 w/o Kalman (LS) 0.3 1 correct 8 / 12
+done ablation M2 Predictive 0.3 0 correct 7 / 12
+done ablation M3 w/o visual servo 0.3 4 correct 6 / 12
+done ablation M3 w/o SCT scheduling 0.3 3 correct 10 / 12
+done ablation M3 Proposed 0.3 0 correct 11 / 12
+done ablation M3 w/o SCT scheduling 0.3 4 correct 9 / 12
+done ablation M3 w/o visual servo 0.3 3 correct 8 / 12
+done ablation M3 w/o SCT scheduling 0.3 2 correct 11 / 12
+done ablation M3 w/o SCT scheduling 0.3 1 correct 9 / 12
+done ablation M3 Proposed 0.3 4 correct 9 / 12
+done in 871 s, 105 rows

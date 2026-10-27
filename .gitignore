@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+results/quick.csv
+results/cs_runs_quick.csv
+results/full_log.txt
+tools/
+provided_zip/
